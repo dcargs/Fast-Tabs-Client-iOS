@@ -19,3 +19,5 @@ Dale Musser and Josh Lewis are both added to the Axosoft page. If you are having
 ---
 ### [Use Case Diagram/Description](https://docs.google.com/document/d/e/2PACX-1vSY2f98evuaE9QQWUO8jKhkHwLQrC-U-UsUdY17bmCLJzM2Kh4VBPG9K-OF-w8qk-91qf2Vd48AksT8/pub)
 ---
+## Purpose of this repository
+To be able to easily test the client. You can generate this file from [Client](https://github.com/dcargs/Fast-Tabs-Client) by running npm install and then ionic cordova build ios --prod. It will put it under platforms/ios.
